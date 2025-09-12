@@ -2,3 +2,4 @@ mysql:8.0.30
 apache/shardingsphere-proxy:5.1.1
 mysql:8
 apache/dubbo-admin:latest
+openjdk:17
